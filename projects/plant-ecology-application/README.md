@@ -4,4 +4,4 @@ This project was developed in collaboration with Sam Anderson and Kate McCulloh 
 
 🔗 **[Launch the application](https://jacksoncdatascience.shinyapps.io/application_jc/)**
 
-Source code is available within the app, as well as in this repository.
+Source code is available within the app, as well as in this repository (`pel_app.r`)
