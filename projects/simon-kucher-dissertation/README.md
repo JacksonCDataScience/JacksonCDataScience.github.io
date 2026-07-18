@@ -1,4 +1,4 @@
-# Simon Kucher M.S. Dissertation
+# Simon Kucher M.S. Thesis
 
 Full write-up: [bpa_report.pdf](./bpa_report.pdf)
 
