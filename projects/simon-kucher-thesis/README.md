@@ -4,6 +4,6 @@ Full write-up: [simon-kucher.pdf](./simon-kucher.pdf)
 > **Note:** Some content in this write-up has been redacted to protect the privacy and confidentiality of the client, Simon-Kucher
 
 ## Data
-- `bpa_code.Rmd` —  Fits a Bayesian spatio-temporal model (via inlabru/INLA with a Matérn SPDE spatial effect and cyclic RW1 temporal effect) to PM2.5 concentration data from the AgrImOnIA dataset, compares four candidate models (M0–M3), runs a full prior sensitivity analysis on all model components, and evaluates the selected model through posterior predictive checks, studentised residual diagnostics, and CRPS.
+- `simon_kucher.Rmd` — Fits Bayesian hierarchical negative binomial models (via INLA) to estimate heterogeneous price elasticities for newly launched fashion products, with nested random intercepts and slopes at the product-category and individual-product level, informative priors on price elasticity, holiday/seasonal calendar effects, and evaluates model fit via WAIC/CPO, posterior predictive checks, out-of-sample CRPS, and coverage diagnostics on a held-out set of unseen products.
 
 
