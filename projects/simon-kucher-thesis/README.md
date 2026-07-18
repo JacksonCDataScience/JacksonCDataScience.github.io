@@ -1,4 +1,4 @@
-# Simon Kucher M.S. Thesis
+# Price Elasticity Modeling - M.S. Thesis
 
 Full write-up: [simon-kucher.pdf](./simon-kucher.pdf)
 > **Note:** Some content in this write-up has been redacted to protect the privacy and confidentiality of the client, Simon-Kucher
