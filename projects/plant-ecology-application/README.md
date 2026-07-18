@@ -1,4 +1,7 @@
-Welcome to the Wisconsin Plant Ecology Application, a project I carried out alongside Sam Anderson and Kate McCulloh at UW-Madison's McCulloh Lab.
+# Wisconsin Plant Ecology Application
 
-Click here to access the application. Source code is provided in the application as well as in ...
-https://jacksoncdatascience.shinyapps.io/application_jc/
+This project was developed in collaboration with Sam Anderson and Kate McCulloh at the McCulloh Lab, UW–Madison.
+
+🔗 **[Launch the application](https://jacksoncdatascience.shinyapps.io/application_jc/)**
+
+Source code is available within the app, as well as in this repository.
