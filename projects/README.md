@@ -15,6 +15,9 @@ A discrete-event simulation of a ride-sharing system that calibrates driver/ride
 ### 4. [plant-ecology-application](./plant-ecology-application)
 An R Shiny application for exploring plant community ecology data across Wisconsin, developed in collaboration with Sam Anderson and Kate McCulloh of the UW–Madison McCulloh Lab.
 
+### 5. [malicious-email-detection](./malicious-email-detecton)
+M.S. thesis evaluating anomaly-detection models (z-score, PCA reconstruction error, isolation forest, and an ensemble) for identifying malicious insider emails from metadata and semantic content, under historical baselines of varying data recency, developed in collaboration with Lloyds of London.
+
 <!--
 ### 5. [price-elasticity-thesis](./price-elasticity-thesis)
 M.S. thesis evaluating the use of product- and category-level random effects in price elasticity estimation for newly launched fast fashion products via a Bayesian hierarchical negative binomial model, developed in collaboration with Simon-Kucher.
