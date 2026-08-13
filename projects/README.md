@@ -15,7 +15,7 @@ A discrete-event simulation of a ride-sharing system that calibrates driver/ride
 ### 4. [plant-ecology-application](./plant-ecology-application)
 An R Shiny application for exploring plant community ecology data across Wisconsin, developed in collaboration with Sam Anderson and Kate McCulloh of the UW–Madison McCulloh Lab.
 
-### 5. [malicious-email-detection](./malicious-email-detecton)
+### 5. [malicious-email-detection](./malicious-email-detection)
 M.S. thesis evaluating anomaly-detection models (z-score, PCA reconstruction error, isolation forest, and an ensemble) for identifying malicious insider emails from metadata and semantic content, under historical baselines of varying data recency, developed in collaboration with Lloyds of London.
 
 <!--
