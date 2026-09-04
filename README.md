@@ -1,4 +1,4 @@
-Welcome to my site. I'm Jackson Cramer, an aspiring data scientist currently completing my M.S. in Statistics with Data Science at the University of Edinburgh. Explore my projects to see what I've been working on.
+Welcome to my site. I'm Jackson Cramer, an aspiring data scientist who has recently completed an M.S. in Statistics with Data Science at the University of Edinburgh. Explore my projects to see what I've been working on.
 
 ## 📁 Explore
 - [View my past projects](./projects)
