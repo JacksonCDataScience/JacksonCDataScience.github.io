@@ -6,7 +6,7 @@ Welcome to my portfolio. I'm Jackson Cramer, an aspiring data scientist with an 
 
 ## 📬 Contact
 - ✉️ [JacksonWillCramer@icloud.com](mailto:JacksonWillCramer@icloud.com)
-- 📞 +44 074 2949 1822
+- 📞 +1 612 756 6335
 - 💼 [LinkedIn](https://www.linkedin.com/in/jackson-cramer-11ab91274)
 
 <img src="./images/Jackson_Image.jpg" alt="Jackson Cramer" width="200" align="left">
